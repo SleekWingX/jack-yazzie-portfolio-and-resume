@@ -1,11 +1,11 @@
 import React from 'react';
 
-const Project = ({ title, image, deployedLink, repoLink }) => (
+const Project = ({ title, img, live, repo }) => (
   <div className="project">
-    <img src={image} alt={title} />
+    <img src={img} alt={title} />
     <h3>{title}</h3>
-    <a href={deployedLink} target="_blank" rel="noopener noreferrer">Deployed App</a>
-    <a href={repoLink} target="_blank" rel="noopener noreferrer">GitHub Repo</a>
+    <a href={live} target="_blank" rel="noopener noreferrer">Live Site</a>
+    <a href={repo} target="_blank" rel="noopener noreferrer">GitHub Repo</a>
   </div>
 );
 

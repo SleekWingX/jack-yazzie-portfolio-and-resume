@@ -3,7 +3,7 @@ import Navigation from './Navigation';
 
 const Header = () => (
   <header>
-    <h1>My Portfolio</h1>
+    <h1>Developer Name</h1>
     <Navigation />
   </header>
 );
