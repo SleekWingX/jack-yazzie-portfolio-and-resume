@@ -140,3 +140,9 @@ form span {
 .project img {
   border-radius: 0;
 }
+
+/* Spacing for Links in Project Component */
+.project a {
+  display: inline-block;
+  margin: 0 5px;
+}
