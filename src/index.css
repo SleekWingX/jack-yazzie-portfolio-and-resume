@@ -109,6 +109,12 @@ img {
   border-radius: 50%;
 }
 
+.about-me-image {
+  width: 30%;
+  height: auto; /* Keep the aspect ratio */
+  border-radius: 50%;
+}
+
 form {
   display: flex;
   flex-direction: column;
@@ -141,8 +147,7 @@ form span {
   border-radius: 0;
 }
 
-/* Spacing for Links in Project Component */
-.project a {
+a {
   display: inline-block;
   margin: 0 5px;
 }
