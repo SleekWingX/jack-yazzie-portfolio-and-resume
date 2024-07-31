@@ -1,5 +1,3 @@
-import React from 'react';
-
 const AboutMe = () => (
   <section>
     <img src="path/to/photo.jpg" alt="Jack Yazzie" />

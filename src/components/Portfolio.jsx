@@ -1,8 +1,7 @@
-import React from 'react';
 import Project from './Project';
 
 const projects = [
-  { title: 'Project 1', img: 'path/to/image1.jpg', live: 'https://live1.com', repo: 'https://github.com/repo1' },
+  { title: 'Progressive Web Application - Jate', img: '../assets/img/jate.png', live: 'https://progressive-web-application-jate.onrender.com/', repo: 'https://github.com/SleekWingX/progressive-web-application' },
   { title: 'Project 2', img: 'path/to/image2.jpg', live: 'https://live2.com', repo: 'https://github.com/repo2' },
   // Add more projects as needed
 ];
