@@ -8,7 +8,7 @@ Using react in javascript I created and deployed a full stack website to show of
 
 https://main--gilded-youtiao-aa50a3.netlify.app/
 
-
+![alt text](public/img/DeployedExample.JPG)
 
 ## Table of Contents
 - [Description](#description)
