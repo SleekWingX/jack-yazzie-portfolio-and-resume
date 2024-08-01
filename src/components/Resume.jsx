@@ -1,12 +1,11 @@
 
 const Resume = () => (
   <section>
-    <a href="path/to/resume.pdf" download>Download Resume</a>
+    <a href="src/assets/Jack Yazzie 2024 Resume.pdf" download>Download Resume</a>
     <ul>
-      <li>Proficiency 1</li>
-      <li>Proficiency 2</li>
-      <li>Proficiency 3</li>
-      {/* Add more proficiencies as needed */}
+      <li>Expert in programming diagnostics and Git Management</li>
+      <li>Skilled in Microsoft Office, JavaScript, CSS, HTML, MySQL.</li>
+      <li>Proficient in Insomnia for database operations.</li>
     </ul>
   </section>
 );
