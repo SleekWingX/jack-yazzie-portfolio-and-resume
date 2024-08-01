@@ -1,7 +1,7 @@
 
 const Resume = () => (
   <section>
-    <a href="src/assets/Jack Yazzie 2024 Resume.pdf" download>Download Resume</a>
+    <a href="/Jack Yazzie 2024 Resume.pdf" download>Download Resume</a>
     <ul>
       <li>Expert in programming diagnostics and Git Management</li>
       <li>Skilled in Microsoft Office, JavaScript, CSS, HTML, MySQL.</li>
